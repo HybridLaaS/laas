@@ -1,6 +1,0 @@
-[submodule "dashboard"]
-	path = dashboard
-	url = https://github.com/HybridLaaS/dashboard.git
-[submodule "coordinator"]
-	path = coordinator
-	url = https://github.com/HybridLaaS/coordinator.git
