@@ -1,0 +1,6 @@
+[submodule "coordinator"]
+	path = coordinator
+	url = https://github.com/OpnLaaS/coordinator.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/OpnLaaS/dashboard.git
